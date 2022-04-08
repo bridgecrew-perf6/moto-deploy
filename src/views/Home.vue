@@ -6,14 +6,14 @@
     <div class="row mb-5" data-aos="fade-right" data-aos-duration="2000">
       <div class="col-md-6">
         <img
-          src="../assets/helpers/Page-AD-01.png"
+          src="../assets/fix2.jpg"
           alt=""
           class="h-350 w-100 bgCover card-img mb-4 mb-md-0"
         />
       </div>
       <div class="col-md-6 d-flex flex-column justify-content-center">
         <h2 class="text-center text-secondary fw-bold">
-          太薄科技
+          用心照顧每台車
         </h2>
         <p class="ff-r">
           我們對於重機保養絕對不馬虎，機油只使用國際大廠美孚機油與mobil機油，例行性小保養與大保養
