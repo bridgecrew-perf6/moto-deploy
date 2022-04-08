@@ -6,7 +6,7 @@
     <div class="row mb-5" data-aos="fade-right" data-aos-duration="2000">
       <div class="col-md-6">
         <img
-          src="../assets/fix2.jpg"
+          src="../assets/Page-AD-01.png"
           alt=""
           class="h-350 w-100 bgCover card-img mb-4 mb-md-0"
         />
